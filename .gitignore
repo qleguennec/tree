@@ -1,2 +1,7 @@
+*.swp
 cross/
 foreign-src/
+
+boot/boot.o
+kernel/kernel.o
+kernel/kernel.bin
